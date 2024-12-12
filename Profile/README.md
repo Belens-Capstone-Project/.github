@@ -44,7 +44,7 @@ Instructions for installing and running the Belens app:
 
 1. Clone this repository:
    ```bash
-   [git clone <repository_url>](https://github.com/Belens-Capstone-Project/MD-Project/blob/master/README.md)
+   [[git clone <repository_url>](https://github.com/Belens-Capstone-Project/MD-Project/blob/master/README.md)](https://github.com/Belens-Capstone-Project/MD-Project.git)
    ```
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device or emulator.
