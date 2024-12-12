@@ -6,13 +6,13 @@ Belens is a mobile application designed to give users insight into their nutriti
 
 ---
 
-## About The Project
+# About The Project
 
 Managing sugar intake is essential to maintaining a healthy lifestyle. However, identifying the sugar content in packaged beverages can be challenging for consumers, as even though the ingredients are listed, some people often overlook them, leading to an unhealthy lifestyle.
 
 Belens was created to address this issue by utilizing advanced technology. The app allows users to scan beverage packaging for sugar content, as well as beverage grade and recommendations to avoid over-consumption. By providing this information, the user instantly knows what is important about the drink.
 
-### Key Features:
+## Key Features:
 
 - **Instant Scan:** Utilize the app to scan beverage packaging and get sugar content information by simply taking a photo of the front of the beverage without having to scan a specific part.
 - **Personalized Insights:** Get recommendations and insights based on health goals.
@@ -23,7 +23,7 @@ With Belens, making healthier choices has never been easier. Our mission is to f
 
 ---
 
-## Team Members
+# Team Members
 
 **Team-ID:** C242-PS245
 
@@ -39,13 +39,13 @@ With Belens, making healthier choices has never been easier. Our mission is to f
 
 ---
 
-## App Demo
+# App Demo
 [![Belens App Demo](https://img.youtube.com/vi/L9VACOuqvXA/0.jpg)](https://youtu.be/L9VACOuqvXA)
 
 
 ---
 
-## App UI
+# App UI
 
 <img width="2495" alt="Banner (2)" src="https://github.com/user-attachments/assets/1616a3d2-9e25-4fe4-b9d1-fe590d20a890" />
 
@@ -55,7 +55,7 @@ With Belens, making healthier choices has never been easier. Our mission is to f
 
 ---
 
-## Installation
+# Installation
 
 Instructions for installing and running the Belens app:
 
@@ -65,9 +65,3 @@ Instructions for installing and running the Belens app:
    ```
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device or emulator.
-
----
-
-## App Demo
-
-- [Insert links or images for app demos here]
