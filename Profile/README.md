@@ -1,5 +1,5 @@
 <img width="1280" alt="Banner (1)" src="https://github.com/user-attachments/assets/8008516f-7828-4e0c-88d1-39a8c541fcf0" />
-# Belens
+## Belens
 
 Belens is a mobile application designed to give users insight into their nutritional habits using advanced image recognition technology. The app helps users make informed decisions about their beverage choices by analyzing images of drinks and offering nutritional information. Developed by the C242-PS245 team as part of the Capstone Project at Bangkit Academy 2024, the app brings together expertise from three different learning paths: Machine Learning, Cloud Computing, and Mobile Development.
 
