@@ -39,7 +39,13 @@ With Belens, making healthier choices has never been easier. Our mission is to f
 
 ---
 
-## UI App
+## App Demo
+[![Belens App Demo](https://img.youtube.com/vi/L9VACOuqvXA/0.jpg)](https://youtu.be/L9VACOuqvXA)
+
+
+---
+
+## App UI
 
 <img width="2495" alt="Banner (2)" src="https://github.com/user-attachments/assets/1616a3d2-9e25-4fe4-b9d1-fe590d20a890" />
 
