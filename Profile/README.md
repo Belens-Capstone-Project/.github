@@ -1,4 +1,4 @@
-<img width="1280" alt="Banner (1)" src="https://github.com/user-attachments/assets/8008516f-7828-4e0c-88d1-39a8c541fcf0" />
+<img width="1280" alt="Banner (4)" src="https://github.com/user-attachments/assets/30dbbd2d-5d00-4019-aff5-e7c10f6b7119" />
 
 # Belens
 
@@ -36,6 +36,14 @@ With Belens, making healthier choices has never been easier. Our mission is to f
 | Robi Ferliansyah     | C318B4KY3953 | Cloud Computing    |
 | Edison               | A333B4KY1227 | Android Development|
 | Farqad Assanji       | A179B4KY1419 | Android Development|
+
+---
+
+## UI App
+
+<img width="2495" alt="Banner (2)" src="https://github.com/user-attachments/assets/1616a3d2-9e25-4fe4-b9d1-fe590d20a890" />
+
+<img width="2495" alt="Banner (3)" src="https://github.com/user-attachments/assets/4d5da704-b234-4771-bc2b-30543625cbdf" />
 
 ---
 
