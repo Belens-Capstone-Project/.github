@@ -43,6 +43,8 @@ With Belens, making healthier choices has never been easier. Our mission is to f
 
 <img width="2495" alt="Banner (2)" src="https://github.com/user-attachments/assets/1616a3d2-9e25-4fe4-b9d1-fe590d20a890" />
 
+
+
 <img width="2495" alt="Banner (3)" src="https://github.com/user-attachments/assets/4d5da704-b234-4771-bc2b-30543625cbdf" />
 
 ---
